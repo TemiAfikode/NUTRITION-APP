@@ -22,7 +22,7 @@ Nutrition-app is a system that provides recipes based on a search input alongsid
 
 Run `npm run dev` on one terminal. Api endpoints can be tested on `http://localhost:2000` route.
 
-#CONTRIBUTORS
+# CONTRIBUTORS
 I'm dedicated to improving and making a better version of myself in the world of technology.
 
 Thank you so much!
